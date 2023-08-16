@@ -1079,7 +1079,7 @@ Call To Action Style
   text-transform: uppercase;
 }
 
-.call-to-action h4 {
+.call-to-action h4, h3 {
   font-size: 20px;
   color: #fff;
   font-weight: 600;
