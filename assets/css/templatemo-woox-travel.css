@@ -820,11 +820,11 @@ Banner Style
   transition: 0.3s;
 }
 #section-1 .content-slider .slider #top-banner-1 {
-  background: url('../images/puncakpelitabg.webp') no-repeat center center;
+  background: url('../images/25.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-2 {
-  background: url('../images/25.jpg') no-repeat center center;
+  background: url('../images/puncakpelitabg.webp') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-3 {
